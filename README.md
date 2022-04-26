@@ -41,11 +41,3 @@ If you want to collaborate on a project, or just want to chat, my virtual door i
 [![Linkedin Badge](https://img.shields.io/badge/-Portfolio-purple?style=flat&labelColor=purple&logo=PyUp&logoColor=white)](https://alejandromandala.com/)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sandro927)  
-## Current Skills and Tools
-
-- HTML5, CSS, JavaScript
-- React, React Router, React Hooks
-- Redux, Recoil
-- Node, Express
-- MySQL, Knex.js
-- 🐍 Python
