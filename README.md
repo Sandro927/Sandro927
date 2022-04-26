@@ -7,18 +7,19 @@ for React.js and a healthy addiction to building responsive web applications. I 
 
 ## Current Skills and Tools
 
-- HTML5, CSS, JavaScript
-- React, React Router, React Hooks
-- Redux, Recoil
-- Node, Express
-- MySQL, Knex.js
-- 🐍 Python
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="16"/> HTML5, CSS, JavaScript
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="16"/> React, React Router, React Hooks
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="16"/> Redux, Recoil
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="16"/> Node, Express
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="16"/> MySQL, Knex.js
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="16"/> Python
+
 
 ## Skills I'm learning
 
-- Next.js
-- TypeScript
-- PHP
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="python" width="16"/> Next.js
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TS" width="16"/> TypeScript
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="16"/> PHP
 
 
 ## My Professional Background
